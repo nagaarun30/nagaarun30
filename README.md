@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ReactJS Projects
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: snagaarun@gmail.com
+
+<img src = "https://github-readme-stats.vercel.app/api?username=nagaarun30&theme=radical"/>
 <!--
 **nagaarun30/nagaarun30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
