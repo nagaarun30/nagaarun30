@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ReactJS Projects
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working as PROJECT TRAINEE @ZOHO
 - 📫 How to reach me: snagaarun@gmail.com
 
 <img src = "https://github-readme-stats.vercel.app/api?username=nagaarun30&theme=radical"/>
